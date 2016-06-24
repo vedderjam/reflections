@@ -1,8 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
-Some hidden folders and files are created. This needs to be done in order to use
-Git functionality.
+  Some hidden folders and files are created. This needs to be done in order to
+  use Git functionality.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+  It's a middle "memory" where to place the files you want to commit. It makes it
+  easier for commits.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
