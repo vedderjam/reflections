@@ -18,6 +18,7 @@ organized? How would branches help?
   the texts is different, or when adding an easier mode for a game.
 
 How do the diagrams help you visualize the branch structure?
+  It's a good way to understand the structure and reachability of the branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
