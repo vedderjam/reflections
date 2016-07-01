@@ -32,4 +32,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When adding an optional feature or adding some change that should be approved
+    by other collaborators before being in master branch. The benefit of making
+    changes in a separate branch is that master isn't affected if unnecessary. The
+    benefit of changing master directly is that it's easier / simpler.
